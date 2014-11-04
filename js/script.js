@@ -231,7 +231,7 @@ function purchaseText(data,term){
 
 function magic(data, money, term){
 
-	if (callCount == 4){
+	if (callCount == 1){
 		DONATE();
 	}
 
