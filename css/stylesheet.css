@@ -1,0 +1,122 @@
+body{
+  background-image: url(https://newevolutiondesigns.com/images/freebies/white-wallpaper-20.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 60%;
+}
+.DONATE{
+  border: 20px solid;
+  border-radius: 10px;
+  position: absolute;
+  opacity: 0;
+  top: 50%;
+  left: 50%;
+  width:60em;
+  height:30em;
+  margin-top: -15em; /*set to a negative number 1/2 of your height*/
+  margin-left: -30em; /*set to a negative number 1/2 of your width*/
+  background-color: #f3f3f3;
+  z-index: 10;
+}
+
+.button_container{
+  width: 70%;
+}
+
+.btn-lg{
+  font-family: Helvetica;
+  height: 60px;
+  width : 350px;
+}
+.donate_header{
+  font-size: 50px;
+  color: orange;
+}
+
+.center{
+
+  width: 50%;
+  margin: 0 auto
+
+}
+
+.wage{
+  font-size: 40px;
+  color: orange;
+}
+
+.purchase{
+  font-size: 30px;
+  color:333333;
+  width: 85%;
+  margin-left: 0;
+}
+
+.month{
+  font-size: 46px;
+  color:darkred;
+}
+
+.times{
+  font-size: 40px;
+  color:darkgreen;
+}
+
+.title{
+  font-size: 26px;
+  color: 333333;
+}
+
+.theirPurchase{
+  margin-top: 30px
+}
+
+.yourPurchase{
+  margin-bottom: 5px;
+}
+.header{
+  font-size: 33px;
+  color: 333333;
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+  width: 70%;
+  margin-top: 30px;
+
+}
+
+input{
+  width: 600px;
+  height: 40px;
+  margin: 20px auto;
+  font-size: 24px;
+}
+
+button{
+  width: 80px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+body{
+	font-family: Helvetica, Arial;
+}
+h1{
+	text-align: center;
+}
+
+.charts{
+	width: 80%;
+	margin: 0 auto;
+  padding: 0;
+  margin: auto auto -20px
+}
+
+
+svg{
+	background-color: aqua;
+	margin: 10px auto;
+}
+svg .rects:hover{
+	fill: orange;
+}
