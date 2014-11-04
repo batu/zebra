@@ -52,7 +52,7 @@ function makeD3ChartUp(dataset){
 	//Clear the container each time a new chart is made
 	term = dataset.term;
 	dataset = [dataset.myAmount];
-	var w = 150;
+	var w = 120;
 	var h = 280;
 	var barPadding = 2;
 
@@ -113,7 +113,7 @@ function makeD3ChartDown(dataset){
 	term = dataset.term;
 	dataset = [dataset.theirAmount];
 
-	var w = 150;
+	var w = 120;
 	var h = 280;
 	var barPadding = 2;
 
