@@ -13,10 +13,10 @@ body{
   opacity: 0;
   top: 50%;
   left: 50%;
-  width:65em;
+  width:64em;
   height:30em;
   margin-top: -15em; /*set to a negative number 1/2 of your height*/
-  margin-left: -30em; /*set to a negative number 1/2 of your width*/
+  margin-left: -32em; /*set to a negative number 1/2 of your width*/
   background-color: #f3f3f3;
   z-index: 10;
 }
